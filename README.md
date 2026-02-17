@@ -41,7 +41,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 🚀 Featured Project
-🔹m
 ### 🎟  **[Ticketaya](#)** – A party and match reservation syste
 Full-stack reservation system built using Django.  
 ✔ RESTful APIs  
